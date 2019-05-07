@@ -1,1 +1,5 @@
 /*! Place your custom styles here */
+.bar .logo{
+    max-height: 4rem;
+    border-radius: 10px;
+}
